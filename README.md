@@ -11,7 +11,7 @@ Monty 0.98 is a scripting language that is first compiled into Monty byte codes 
 
 1. Clone the repository:
 ```console
-https://github.com/Lexxyla/monty.git
+https://github.com/JI-Maina/monty.git
 ```
 
 ## Usage
@@ -54,13 +54,6 @@ The functions used are:
 | free_stack | frees a doubly linked list | No Return | free_stack.c|
 | main | monty code interpreter | 0 on success | main.c| 
 
-### Examples
-
-```console
-$lexxyla> ls
-basics.c    general.c  main.h  memory.c   shell.c
-builders.c  helper.c   hsh          README.md  test
-```
 
 ### Authors
 [JI-Maina](https://github.com/JI-Maina)
